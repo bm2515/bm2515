@@ -8,17 +8,17 @@
 ---
 
 ### About me
-I build AI agents and large-scale backend systems that run in production. I spent 5 years at **noon** (the Middle East's largest e-commerce platform), working my way from SDE 1 to Engineering Lead. I built pricing, procurement, forecasting and agent platforms that handled millions of SKUs and $100M+ in volume.
+I build AI agents and large-scale backend systems that run in production. I spent 5 years at **[noon.com](https://www.noon.com)**, working my way from SDE 1 to Engineering Lead. I built pricing, procurement, forecasting and agentic commerce systems that handled millions of SKUs and $100M+ in volume.
 
 🔨 I'm currently working on
 - [ ] **MEng in Computer Science** at **Cornell Tech**
 - [ ] **[Keywise](https://www.getkeywise.app/)**: an AI property-maintenance agent on voice + WhatsApp. It has handled **250+ conversations** across **50 tenants** and resolves **40%** of requests without a human. ▶️ **[Watch the demo](https://www.youtube.com/watch?v=PDfTenPIxJs)**
 
   <a href="https://www.youtube.com/watch?v=PDfTenPIxJs"><img src="https://img.youtube.com/vi/PDfTenPIxJs/hqdefault.jpg" alt="Keywise demo video" width="420"></a>
-- [ ] **AgentIR: agentic text-to-image retrieval** (Cornell Tech research): an agent asks clarifying questions to find a target image among **50,000** photos. Our "fact fusion" query method raises Recall@10 from **64.4 → 77.2** over the PlugIR baseline, and we're now testing vision-written questions. 🔍 **[Interactive explorer](https://claude.ai/artifact/PgvVQFeq2tmpACDmFWfUXN)** · [code](https://github.com/lcambisaca/IR-experiments)
+- [ ] **AgentIR**: research on agentic text-to-image retrieval at Cornell Tech, advised by Matan Levy (PhD student). [Explorer](https://claude.ai/artifact/PgvVQFeq2tmpACDmFWfUXN) · [code](https://github.com/lcambisaca/IR-experiments)
 
 🏆 Hackathons
-- [x] **Winner, OpenAI hackathon: [Astratorial](https://github.com/tasosger/gpt6_hackathon)**: record a short video of your workspace, say what you want to do, and get a narrated 3D tutorial built around your own room and tools (Next.js, Three.js, Supabase, OpenAI realtime voice). Built with [Divyesh Thirukonda](https://github.com/Divyesh-Thirukonda) and team.
+- [x] <img src="assets/openai.png" alt="OpenAI" width="18" align="center"> **Winner, OpenAI hackathon: [Astratorial](https://github.com/tasosger/gpt6_hackathon)**: turns a short video of your workspace into a narrated 3D tutorial.
 
 ⏮️ Previously I've worked at <img src="assets/noon.png" alt="noon" width="18" align="center"> **[noon](https://www.noon.com)**
 - [x] **Engineering Lead**: built noon's **MCP-based agent gateway** (LangGraph + Temporal), integrating **25 internal services** at **100K requests/day**. Led 5 engineers scaling an enterprise AI platform across 9 teams and cut time-to-first-agent by **65%**.
