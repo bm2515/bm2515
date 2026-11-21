@@ -1,7 +1,8 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Bilal Munawar
 
-[![LinkedIn](https://img.shields.io/badge/-Bilal_Munawar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalmunawar-/)
-[![Keywise](https://img.shields.io/badge/-getkeywise.app-black?logo=googlechrome&logoColor=white)](https://www.getkeywise.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bilal_Munawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalmunawar-/)
+[![YouTube](https://img.shields.io/badge/YouTube-Get_to_know_me-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/shorts/puGvyMdUeAY)
+[![Keywise](https://img.shields.io/badge/Keywise-getkeywise.app-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.getkeywise.app/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=AI+%26+Agentic+Systems+Engineer;Former+Engineering+Lead+%40+noon;MEng+Computer+Science+%40+Cornell;Building+production+AI+agents+with+LangGraph+%2B+MCP)](https://git.io/typing-svg)
 
@@ -12,7 +13,9 @@ I build AI agents and large-scale backend systems that run in production. I spen
 
 🔨 **Currently working on**
 - [ ] **MEng in Computer Science** at **Cornell University**
-- [ ] **[Keywise](https://www.getkeywise.app/)**: an AI property-maintenance agent on voice + WhatsApp. It handles **750 conversations/month** across **500+ Dubai properties** and resolves **40%** of requests without a human.
+- [ ] **[Keywise](https://www.getkeywise.app/)**: an AI property-maintenance agent on voice + WhatsApp. It handles **750 conversations/month** across **500+ Dubai properties** and resolves **40%** of requests without a human. ▶️ **[Watch the demo](https://www.youtube.com/watch?v=PDfTenPIxJs)**
+
+  <a href="https://www.youtube.com/watch?v=PDfTenPIxJs"><img src="https://img.youtube.com/vi/PDfTenPIxJs/hqdefault.jpg" alt="Keywise demo video" width="420"></a>
 
 ⏮️ **Previously at noon**
 - [x] **Engineering Lead**: built noon's **MCP-based agent gateway** (LangGraph + Temporal), integrating **25 internal services** at **100K requests/day**. Led 5 engineers scaling an enterprise AI platform across 9 teams and cut time-to-first-agent by **65%**.
@@ -20,6 +23,13 @@ I build AI agents and large-scale backend systems that run in production. I spen
 - [x] **SDE 3**: built the retail procurement platform serving **2,000+ vendors** with **$100M+** in purchase volume, and a rebate recovery engine that recovered **$25M+**.
 - [x] **SDE 2**: built ML demand forecasting for stock transfers across **75+ darkstores**, and an Elasticsearch catalog search over **10M SKUs** at ~100ms median latency.
 - [x] **SDE 1**: built a real-time, event-driven pricing engine across **10M SKUs** that contributed **$10M** in annual GMV uplift.
+
+---
+
+### Get to know me
+🎥 **[What am I passionate about outside work?](https://www.youtube.com/shorts/puGvyMdUeAY)**
+
+<a href="https://www.youtube.com/shorts/puGvyMdUeAY"><img src="https://img.youtube.com/vi/puGvyMdUeAY/hqdefault.jpg" alt="What am I passionate about outside work?" width="240"></a>
 
 ---
 
