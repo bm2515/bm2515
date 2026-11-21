@@ -2,9 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bilal_Munawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalmunawar-/)
 [![YouTube](https://img.shields.io/badge/YouTube-Get_to_know_me-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/shorts/puGvyMdUeAY)
-[![Keywise](https://img.shields.io/badge/Keywise-getkeywise.app-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.getkeywise.app/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=AI+%26+Agentic+Systems+Engineer;Former+Engineering+Lead+%40+noon;MEng+Computer+Science+%40+Cornell;Building+production+AI+agents+with+LangGraph+%2B+MCP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=AI+%26+Agentic+Systems+Engineer;Former+Engineering+Lead+%40+noon;MEng+Computer+Science+%40+Cornell+Tech;Building+production+AI+agents+with+LangGraph+%2B+MCP)](https://git.io/typing-svg)
 
 ---
 
@@ -12,11 +11,11 @@
 I build AI agents and large-scale backend systems that run in production. I spent 5 years at **noon** (the Middle East's largest e-commerce platform), working my way from SDE 1 to Engineering Lead. I built pricing, procurement, forecasting and agent platforms that handled millions of SKUs and $100M+ in volume.
 
 🔨 I'm currently working on
-- [ ] **MEng in Computer Science** at **Cornell University**
+- [ ] **MEng in Computer Science** at **Cornell Tech**
 - [ ] **[Keywise](https://www.getkeywise.app/)**: an AI property-maintenance agent on voice + WhatsApp. It has handled **250+ conversations** across **50 tenants** and resolves **40%** of requests without a human. ▶️ **[Watch the demo](https://www.youtube.com/watch?v=PDfTenPIxJs)**
 
   <a href="https://www.youtube.com/watch?v=PDfTenPIxJs"><img src="https://img.youtube.com/vi/PDfTenPIxJs/hqdefault.jpg" alt="Keywise demo video" width="420"></a>
-- [ ] **AgentIR: agentic text-to-image retrieval** (Cornell research): an agent asks clarifying questions to find a target image among **50,000** photos. Our "fact fusion" query method raises Recall@10 from **64.4 → 77.2** over the PlugIR baseline, and we're now testing vision-written questions. 🔍 **[Interactive explorer](https://claude.ai/artifact/PgvVQFeq2tmpACDmFWfUXN)** · [code](https://github.com/lcambisaca/IR-experiments)
+- [ ] **AgentIR: agentic text-to-image retrieval** (Cornell Tech research): an agent asks clarifying questions to find a target image among **50,000** photos. Our "fact fusion" query method raises Recall@10 from **64.4 → 77.2** over the PlugIR baseline, and we're now testing vision-written questions. 🔍 **[Interactive explorer](https://claude.ai/artifact/PgvVQFeq2tmpACDmFWfUXN)** · [code](https://github.com/lcambisaca/IR-experiments)
 
 🏆 Hackathons
 - [x] **Winner, OpenAI hackathon: [Astratorial](https://github.com/tasosger/gpt6_hackathon)**: record a short video of your workspace, say what you want to do, and get a narrated 3D tutorial built around your own room and tools (Next.js, Three.js, Supabase, OpenAI realtime voice). Built with [Divyesh Thirukonda](https://github.com/Divyesh-Thirukonda) and team.
@@ -38,7 +37,7 @@ I build AI agents and large-scale backend systems that run in production. I spen
 ---
 
 ### Education
-- 🎓 MEng in Computer Science, **Cornell University**, May 2027
+- 🎓 MEng in Computer Science, **Cornell Tech**, May 2027
 - 🎓 BS in Computer Science, **New York University** (Full Tuition Scholarship, Dean's List)
 
 ---
