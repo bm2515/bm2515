@@ -21,8 +21,7 @@ I build AI agents and large-scale backend systems that run in production. I spen
 - [x] <img src="assets/openai.png" alt="OpenAI" width="18" align="center"> **Winner, OpenAI hackathon: [Astratorial](https://github.com/tasosger/gpt6_hackathon)**: turns a short video of your workspace into a narrated 3D tutorial.
 
 ⏮️ Previously I've worked at <img src="assets/noon.png" alt="noon" width="18" align="center"> **[noon](https://www.noon.com)**
-- [x] **Engineering Lead**: built noon's **MCP-based agent gateway** (LangGraph + Temporal), integrating **25 internal services** at **100K requests/day**. Led 5 engineers scaling an enterprise AI platform across 9 teams and cut time-to-first-agent by **65%**.
-- [x] **Agent evals**: built golden-set + LLM-as-judge evaluation pipelines that raised agent accuracy from **65% → 90%**.
+- [x] **Engineering Lead**: managed noon's **Retail engineering team** and led **5 engineers**. Built noon's **MCP-based agent gateway** (LangGraph + Temporal), integrating **25 internal services** at **100K requests/day**, and scaled an enterprise AI platform across 9 teams, cutting time-to-first-agent by **65%**.
 - [x] **SDE 3**: built the retail procurement platform serving **2,000+ vendors** with **$100M+** in purchase volume, and a rebate recovery engine that recovered **$25M+**.
 - [x] **SDE 2**: built ML demand forecasting for stock transfers across **75+ darkstores**, and an Elasticsearch catalog search over **10M SKUs** at ~100ms median latency.
 - [x] **SDE 1**: built a real-time, event-driven pricing engine across **10M SKUs** that contributed **$10M** in annual GMV uplift.
