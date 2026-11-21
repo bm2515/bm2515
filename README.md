@@ -1,0 +1,69 @@
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Bilal Munawar
+
+[![LinkedIn](https://img.shields.io/badge/-Bilal_Munawar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalmunawar-/)
+[![Keywise](https://img.shields.io/badge/-getkeywise.app-black?logo=googlechrome&logoColor=white)](https://www.getkeywise.app/)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=AI+%26+Agentic+Systems+Engineer;Former+Engineering+Lead+%40+noon;MEng+Computer+Science+%40+Cornell;Building+production+AI+agents+with+LangGraph+%2B+MCP)](https://git.io/typing-svg)
+
+---
+
+### About me
+I build AI agents and large-scale backend systems that run in production. I spent 5 years at **noon** (the Middle East's largest e-commerce platform), working my way from SDE 1 to Engineering Lead. I built pricing, procurement, forecasting and agent platforms that handled millions of SKUs and $100M+ in volume. Now I'm at **Cornell** and focused on turning AI agents into products that help people, with a growing interest in **health tech**.
+
+🔨 **Currently working on**
+- [ ] **MEng in Computer Science** at **Cornell University**
+- [ ] **[Keywise](https://www.getkeywise.app/)**: an AI property-maintenance agent on voice + WhatsApp. It handles **750 conversations/month** across **500+ Dubai properties** and resolves **40%** of requests without a human.
+
+⏮️ **Previously at noon**
+- [x] **Engineering Lead**: built noon's **MCP-based agent gateway** (LangGraph + Temporal), integrating **25 internal services** at **100K requests/day**. Led 5 engineers scaling an enterprise AI platform across 9 teams and cut time-to-first-agent by **65%**.
+- [x] **Agent evals**: built golden-set + LLM-as-judge evaluation pipelines that raised agent accuracy from **65% → 90%**.
+- [x] **SDE 3**: built the retail procurement platform serving **2,000+ vendors** with **$100M+** in purchase volume, and a rebate recovery engine that recovered **$25M+**.
+- [x] **SDE 2**: built ML demand forecasting for stock transfers across **75+ darkstores**, and an Elasticsearch catalog search over **10M SKUs** at ~100ms median latency.
+- [x] **SDE 1**: built a real-time, event-driven pricing engine across **10M SKUs** that contributed **$10M** in annual GMV uplift.
+
+---
+
+### Education
+- 🎓 MEng in Computer Science, **Cornell University** (4.3 GPA), May 2027
+- 🎓 BS in Computer Science, **New York University** (Full Tuition Scholarship, Dean's List)
+
+---
+
+### Tools, Frameworks, and Languages
+**AI & Agents**<br>
+![](https://img.shields.io/badge/LangGraph-informational?style=flat&logo=langchain&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/LangChain-informational?style=flat&logo=langchain&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MCP-informational?style=flat&logo=anthropic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/RAG-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Vertex_AI-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+
+**Languages & Frameworks**<br>
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Temporal-informational?style=flat&logo=temporal&logoColor=white&color=2bbc8a)
+
+**Data**<br>
+![](https://img.shields.io/badge/BigQuery-informational?style=flat&logo=googlebigquery&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
+
+**Cloud & Infra**<br>
+![](https://img.shields.io/badge/GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=2bbc8a)
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=bm2515)
+<img src="https://img.shields.io/github/followers/bm2515?style=flat-square&label=Follow" />
