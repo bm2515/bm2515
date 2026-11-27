@@ -14,7 +14,6 @@ I build AI agents and large-scale backend systems that run in production. I spen
 - [ ] **MEng in Computer Science** at **Cornell Tech**
 - [ ] **[Keywise](https://www.getkeywise.app/)**: AI property-maintenance agent on voice + WhatsApp, serving **50 tenants**. ▶️ **[Watch the demo](https://www.youtube.com/watch?v=PDfTenPIxJs)**
 
-  <a href="https://www.youtube.com/watch?v=PDfTenPIxJs"><img src="https://img.youtube.com/vi/PDfTenPIxJs/hqdefault.jpg" alt="Keywise demo video" width="420"></a>
 - [ ] **AgentIR**: research on agentic text-to-image retrieval at Cornell Tech, advised by Matan Levy (PhD student). [Explorer](https://claude.ai/artifact/PgvVQFeq2tmpACDmFWfUXN) · [code](https://github.com/lcambisaca/IR-experiments)
 
 🏆 Hackathons
@@ -25,14 +24,6 @@ I build AI agents and large-scale backend systems that run in production. I spen
 - [x] **SDE 3**: built the retail procurement platform serving **2,000+ vendors** with **$100M+** in purchase volume, and a rebate recovery engine that recovered **$25M+**.
 - [x] **SDE 2**: built ML demand forecasting for stock transfers across **75+ darkstores**, and an Elasticsearch catalog search over **10M SKUs** at ~100ms median latency.
 - [x] **SDE 1**: built a real-time, event-driven pricing engine across **10M SKUs** that contributed **$10M** in annual GMV uplift.
-
----
-
-### Get to know me
-🎥 [What am I passionate about outside work?](https://www.youtube.com/shorts/puGvyMdUeAY)
-
-<a href="https://www.youtube.com/shorts/puGvyMdUeAY"><img src="https://img.youtube.com/vi/puGvyMdUeAY/hqdefault.jpg" alt="What am I passionate about outside work?" width="240"></a>
-
 ---
 
 ### Education
